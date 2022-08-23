@@ -1,0 +1,175 @@
+---
+title: "About"
+---
+
+I am currently a research fellow at SICS, A\*STAR Singapore and an adjunct with Social Service Research Centre, NUS.
+
+### Research Interests
+
+-   Parents and parenting
+-   Social Work Processes
+-   Intervention Design and Development
+-   Evaluation Research
+-   Text-as-data Analysis
+-   Causal Inference
+
+### Education
+
+::: {.d-flex .justify-content-between}
+<div>
+
+**UNC Chapel Hill**\
+PhD in Social Work\
+Advisors: Paul Lanier, David Ansong, Ding-Geng Chen, Emily Putnam Hornstein, Meghan Shanahan,
+
+</div>
+
+::: text-end
+Chapel Hill, North Carolina NC\
+Granted August 2021
+:::
+:::
+
+-   Dissertation (3 paper): *Risk Factors of Subsequent Allegations of Child Maltreatment*
+    -   Paper 1: A Meta-analysis of Risk Factors for Re-reported Allegations of Child Maltreatment
+    -   Paper 2: Using Risk Factors to Predict Child Maltreatment Re-reports: A Machine Learning Approach
+    -   Paper 3: The Influence of County-level Socioeconomic Risks and Supportive services on Maltreatment Re-reports in North Carolina: A Bayesian spatiotemporal approach
+
+::: {.d-flex .justify-content-between}
+<div>
+
+**National University of Singapore**\
+Master of Social Work
+
+
+</div>
+
+::: text-end
+Singapore\
+2016
+:::
+:::
+
+
+::: {.d-flex .justify-content-between}
+<div>
+
+**National University of Singapore**\
+B.A. in Arts (major in Social Work)
+
+
+</div>
+
+::: text-end
+Singapore\
+2007
+:::
+:::
+
+
+### Experience
+
+::: {.d-flex .justify-content-between}
+<div>
+
+**Singapore Institute for Clinical Science, ASTAR**
+
+</div>
+
+::: text-end
+Aug 2022 - present
+:::
+:::
+
+*Research Fellow*
+
+-   Part of Jonathan Huang's research team at Epidemiology and Biostatistics at SICS ([Biostats@SICS](https://huangresearchgroup.mystrikingly.com/))
+-   Primary aim of Biostats@SICS is to adapt and apply cutting-edge methods to complex data (longitudinal, -omics, sociobehavioral, etc.) to study maternal, child, and adolescent health
+-  Part of team for DADSCAN project which seeks to fill an important gap in understanding the multi-faceted ways in which dads and partners support child health and development throughout the early life course -- from preconception through adolescence.
+-  Harmonized data related to fathers across three large-scale longitudinal studies (GUSTO, MAMS, and S-PRESTO)
+
+
+::: {.d-flex .justify-content-between}
+<div>
+
+**Social Service Research Centre, NUS**
+
+</div>
+
+::: text-end
+Nov 2021 - present
+:::
+:::
+
+*Research Fellow*
+
+- SSRC is a research centre in FASS at NUS dedicated to social intervention research in Singapore.
+- Ran analyses for two longitudinal studies in Singapore: [In-work Poverty](https://fass.nus.edu.sg/ssr/research-projects/in-work-poverty-challenges-getting-by-among-the-young/) and [EPYC](https://fass.nus.edu.sg/ssr/research-projects/enhancing-positive-outcomes-in-youth-community/)
+- Managed and ran training workshops to teach research skills to community practitioners and researchers
+- Managed in-house publication Snippet
+- Research consultations for social service agencies 
+
+
+::: {.d-flex .justify-content-between}
+<div>
+
+**NUS**
+
+</div>
+
+::: text-end
+2014 - 2017
+:::
+:::
+
+*Research manager*
+
+- Strengthening Families Together Pilot
+- Managed project for three years
+- Managed and analyzed data
+- Writing and reporting 
+- Training
+
+
+
+::: {.d-flex .justify-content-between}
+<div>
+
+**Fei Yue Family Service Centre**
+
+</div>
+
+::: text-end
+2008 - 2013
+:::
+:::
+
+*Senior Social Worker*
+
+- Casework and Counseling
+- Information and Referral Coordinator
+- Developed child abuse specialist centre
+- Clinical supervision
+- Clinical skills training (children group-work skills, case management)
+- Program coordinator for Enhanced Step-Up Program
+- SFBT graduate diploma
+
+
+
+### Teaching
+
+#### Social Service Research Centre
+
+::: {.d-flex .justify-content-between}
+<div>
+
+Research Skills Mentoring Workshop for Social Service Professionals
+
+</div>
+
+::: text-end
+2022
+:::
+:::
+
+

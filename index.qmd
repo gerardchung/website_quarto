@@ -1,0 +1,50 @@
+---
+title: "Gerard Chung"
+description: "Social Work, Intervention Research, Parenting, and Text Analysis"
+page-layout: full
+image: /gerardchung.png
+resources:
+    - "gerardchung.png"
+---
+
+::: column-page-inset
+::: column-page-inset-left
+I am the scientific coordinator at the Data Science Research Network at the University of Vienna.
+
+I previously worked on the Adaptive Experimentation team at Facebook Core Data Science in New York.
+
+My research focuses on the intersection of machine learning and causal inference. I work a lot on experimental design and I think hard about how experimentation can be better and more efficient. I'm also interested in better applying the machinery of machine learning to observational causal inference.
+
+I'm most interested in methodological research useful for the study of social phenomena.
+:::
+
+::: {.column-margin .column-container}
+![](gerardchung.png){.rounded}
+:::
+:::
+
+{{< pagebreak >}}
+
+::: {.column-page-inset .text-center}
+```{=html}
+<a class="btn btn-outline-dark", href="https://twitter.com/GerardChung" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-twitter" role='img' aria-label='Twitter'></i>
+</a>
+
+<a class="btn btn-outline-dark", href="https://github.com/gerardchung" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role='img' aria-label='Github'></i>
+</a>
+
+<a class="btn btn-outline-dark", href="https://www.linkedin.com/in/gerardchung/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role='img' aria-label='LinkedIn'></i>
+</a>
+
+<a class="btn btn-outline-dark", href="https://scholar.google.com/citations?user=9aeYOx8AAAAJ&hl=en&inst=3212728378801010220" target="_blank" rel="noopener noreferrer"> {{< ai google-scholar >}}
+    <i class="ai ai-google-scholar" role='img' aria-label='Google Scholar'></i>
+</a>
+
+<a class="btn btn-outline-dark", href="mailto:gcsk1982@gmail.com" target="_blank" rel="noopener noreferrer">
+    <i class="ai bi-envelope" role='img' aria-label='email'></i>
+</a>
+```
+:::

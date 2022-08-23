@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Gerard Chung"
+  navbar:
+    background: dark
+    foreground: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+      - href: research.qmd
+
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: true
+
+editor: visual
+
