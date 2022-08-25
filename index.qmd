@@ -5,17 +5,18 @@ page-layout: full
 image: /gerardchung.png
 resources:
     - "gerardchung.png"
+
 ---
 
 ::: column-page-inset
 ::: column-page-inset-left
-I am the scientific coordinator at the Data Science Research Network at the University of Vienna.
+I am a research fellow at the Singapore Institute for Clinical Sciences, A\*STAR, Singapore. I also hold an adjunct position at the Social Service Research Centre at the National University of Singapore.
 
-I previously worked on the Adaptive Experimentation team at Facebook Core Data Science in New York.
+I previously worked as a social worker at Fei Yue Family Service Centre.
 
-My research focuses on the intersection of machine learning and causal inference. I work a lot on experimental design and I think hard about how experimentation can be better and more efficient. I'm also interested in better applying the machinery of machine learning to observational causal inference.
+As a social work researcher, my research focuses on parenting, fathers, family services in the community, and intervention research. I am also interested to advance the use of administrative data in the social service sector to improve social work practices and to evaluate interventions and services.
 
-I'm most interested in methodological research useful for the study of social phenomena.
+I identify as a quantitative methodologist where the through line connecting my research interests involved the use of computational social science methods and advanced statistical methods. I am most interested to use text-as-data methods to explore insights from open-survey responses and textual data generated from unconventional sources.
 :::
 
 ::: {.column-margin .column-container}
