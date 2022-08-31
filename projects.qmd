@@ -1,0 +1,35 @@
+---
+title: "Projects"
+---
+
+## Text-as-data projects
+
+-   **News Media Representations of Social Service Agencies During COVID-19 in Singapore**. Analysis of 1,095 news articles in Singapore on SSAs using a corpus linguistic approach. [\[Website\]](https://gerardchung.github.io/ssanews/)[\[Github\]](https://github.com/gerardchung/ssa_covid_news)\[[Article](https://fass.nus.edu.sg/ssr/wp-content/uploads/sites/8/2022/03/Snippet_Issue-1_2022_MinorityStress_CommunityConnectedness_NewsMedia_SocialServices.pdf)\]
+
+-   **Text-mining news on Social Work Profession in Singapore**. Text data analysis of 7000 news articles related to Social Work Profession in Singapore. [\[Github\]](https://github.com/gerardchung/social_work_news_singapore)
+
+-   **Annual reports of Social Service Agencies in Singapore**. Narratives of Directors' messages from 2017 to 2021. Project website coming up soon!
+
+## Talks/Presentations
+
+-   **The Design and Development of Interventions: An Application to an After-school Program by CampusImpact for Disadvantaged Families in Singapore**. Lee Choon Guan Endowment Fund Public Lecture. 31st Aug 2022. Social Work Department, NUS. [\[File *20MB*\]](files/lgc_aug2022_for_lgcwebsite.pdf) [[Slideshare]](https://www.slideshare.net/GerardChung/lgcaug2022forlgcwebsitepdf)
+
+-   **Analyzing textual data from open-ended survey questions**. Humanities and Social Sciences (HSS) and New Technologies Sandpit, NUS FASS Research Division. 15th Aug 2022. [[File]](files/hss_tech_sandpit_2022Aug.pdf) [[Slideshare]](https://www.slideshare.net/GerardChung/analyzing-textual-data-from-openended-survey-questions)
+
+## Meta-analysis
+
+-   **Parenting stress and children behavioral problems during COVID-19 pandemic**. We investigated the effects of parenting stress on child and parenting outcomes during the COVID-19 pandemic from 40 studies. [\[Website\]](https://gerardchung.github.io/meta_analysis_parentingstress/)
+
+## Parenting
+
+-   **Parenting During COVID-19 Circuit Breaker.** A survey stud conducted with parents in Singapore during partial lock-down Circuit-breaker. [\[Website\]](https://sgcovidparenting.mystrikingly.com/)
+
+-   **Parenting Books on Amazon.sg: Webscrapping titles** I analyzed titles of parenting books listed on Amazon.sg.[\[Website\]](https://gerardchung.github.io/amazon_parentingbooks/)
+
+## Other projects
+
+-   **In-Work Poverty and the Challenges of Getting By Among the Young**. Funded by the Social Science Thematic Research Grant, this project seeks to gain new insights on the kinds of "in-work" poverty that the working class are experiencing. It will focus on the challenges faced by lowly educated young workers (aged between 21 and 40) and their efforts at advancement. [\[website\]](https://fass.nus.edu.sg/ssr/research-projects/in-work-poverty-challenges-getting-by-among-the-young/)
+
+-   **GUSTO: Growing Up in Singapore towards Healthy Outcomes.**. GUSTO is Singapore's largest and most comprehensive birth cohort study. GUSTO is an important nation-wide medical study that gathers data from parents and their babies, starting from pregnancy.[\[Website\]](https://www.gusto.sg/)
+
+-   **North Carolina State Administrative Data** Collaboration with Paul Lanier at UNC School of Social Work. Exciting. To be updated.
