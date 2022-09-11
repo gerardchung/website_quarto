@@ -41,7 +41,6 @@ Granted August 2021
 **National University of Singapore**\
 Master of Social Work
 
-
 </div>
 
 ::: text-end
@@ -50,13 +49,11 @@ Singapore\
 :::
 :::
 
-
 ::: {.d-flex .justify-content-between}
 <div>
 
 **National University of Singapore**\
 B.A. in Arts (major in Social Work)
-
 
 </div>
 
@@ -65,7 +62,6 @@ Singapore\
 2007
 :::
 :::
-
 
 ### Experience
 
@@ -83,11 +79,10 @@ Aug 2022 - present
 
 *Research Fellow*
 
--   Part of Jonathan Huang's research team at Epidemiology and Biostatistics at SICS ([Biostats@SICS](https://huangresearchgroup.mystrikingly.com/))
--   Primary aim of Biostats@SICS is to adapt and apply cutting-edge methods to complex data (longitudinal, -omics, sociobehavioral, etc.) to study maternal, child, and adolescent health
--  Part of team for DADSCAN project which seeks to fill an important gap in understanding the multi-faceted ways in which dads and partners support child health and development throughout the early life course -- from preconception through adolescence.
--  Harmonized data related to fathers across three large-scale longitudinal studies (GUSTO, MAMS, and S-PRESTO)
-
+-   Part of Jonathan Huang's research team at Epidemiology and Biostatistics at SICS ([Biostats\@SICS](https://huangresearchgroup.mystrikingly.com/))
+-   Primary aim of Biostats\@SICS is to adapt and apply cutting-edge methods to complex data (longitudinal, -omics, sociobehavioral, etc.) to study maternal, child, and adolescent health
+-   Part of team for DADSCAN project which seeks to fill an important gap in understanding the multi-faceted ways in which dads and partners support child health and development throughout the early life course -- from preconception through adolescence.
+-   Harmonized data related to fathers across three large-scale longitudinal studies (GUSTO, MAMS, and S-PRESTO)
 
 ::: {.d-flex .justify-content-between}
 <div>
@@ -103,12 +98,11 @@ Nov 2021 - present
 
 *Research Fellow*
 
-- SSRC is a research centre in FASS at NUS dedicated to social intervention research in Singapore.
-- Ran analyses for two longitudinal studies in Singapore: [In-work Poverty](https://fass.nus.edu.sg/ssr/research-projects/in-work-poverty-challenges-getting-by-among-the-young/) and [EPYC](https://fass.nus.edu.sg/ssr/research-projects/enhancing-positive-outcomes-in-youth-community/)
-- Managed and ran training workshops to teach research skills to community practitioners and researchers
-- Managed in-house publication Snippet
-- Research consultations for social service agencies 
-
+-   SSRC is a research centre in FASS at NUS dedicated to social intervention research in Singapore.
+-   Ran analyses for two longitudinal studies in Singapore: [In-work Poverty](https://fass.nus.edu.sg/ssr/research-projects/in-work-poverty-challenges-getting-by-among-the-young/) and [EPYC](https://fass.nus.edu.sg/ssr/research-projects/enhancing-positive-outcomes-in-youth-community/)
+-   Managed and ran training workshops to teach research skills to community practitioners and researchers
+-   Managed in-house publication Snippet
+-   Research consultations for social service agencies
 
 ::: {.d-flex .justify-content-between}
 <div>
@@ -124,13 +118,11 @@ Nov 2021 - present
 
 *Research manager*
 
-- Strengthening Families Together Pilot
-- Managed project for three years
-- Managed and analyzed data
-- Writing and reporting 
-- Training
-
-
+-   Strengthening Families Together Pilot
+-   Managed project for three years
+-   Managed and analyzed data
+-   Writing and reporting
+-   Training
 
 ::: {.d-flex .justify-content-between}
 <div>
@@ -146,15 +138,13 @@ Nov 2021 - present
 
 *Senior Social Worker*
 
-- Casework and Counseling
-- Information and Referral Coordinator
-- Developed child abuse specialist centre
-- Clinical supervision
-- Clinical skills training (children group-work skills, case management)
-- Program coordinator for Enhanced Step-Up Program
-- SFBT graduate diploma
-
-
+-   Casework and Counseling
+-   Information and Referral Coordinator
+-   Developed child abuse specialist centre
+-   Clinical supervision
+-   Clinical skills training (children group-work skills, case management)
+-   Program coordinator for Enhanced Step-Up Program
+-   SFBT graduate diploma
 
 ### Teaching
 
@@ -171,5 +161,3 @@ Research Skills Mentoring Workshop for Social Service Professionals
 2022
 :::
 :::
-
-
