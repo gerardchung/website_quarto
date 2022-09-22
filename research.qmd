@@ -12,9 +12,10 @@ Lauren A Eaves, Paul Lanier, Adam E Enggasser, **Gerard Chung**, Toby Turla, Jul
 
 Glatz, T., Lippold, M. A., **Gerard Chung**, Jensen, T **A systematic review of parental self‑efficacy among parents of school‑age children: A fifteen‑year update**. *Journal of Family Theory and Review*
 
-**Gerard Chung**, Aloysius Chan, Lim Wei Loong (2022). **Systematic Reviews: A Research Guide for Social Service Professionals.**. Social Service Research Centre.
 
 # 2022
+
+**Gerard Chung**, Aloysius Chan, Lim Wei Loong (2022). **Systematic Reviews: A Research Guide for Social Service Professionals.** Social Service Research Centre. [[Article]](files/ssr/A-Research-Guide-to-Doing-a-Systematic-Review.pdf)[[SSR]](https://fass.nus.edu.sg/ssr/wp-content/uploads/sites/8/2022/09/A-Research-Guide-to-Doing-a-Systematic-Review.pdf)
 
 **Gerard Chung**, Maria Rodriguez, Paul Lanier, Daniel Gibbs (2022). **Text-Mining Open-Ended Survey Responses Using Structural Topic Modeling: A Practical Demonstration to Understand Parents' Coping Methods During the COVID-19 Pandemic in Singapore**. *Journal of Technology in Human Services*. [\[Article\]](https://doi.org/10.1080/15228835.2022.2036301) [\[Preprint\]](https://osf.io/enzst/)
 

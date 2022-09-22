@@ -2,6 +2,12 @@
 title: "Projects"
 ---
 
+## Practice Research with Social Service Agencies.
+
+- **Data Management and Curation: Best Practices**. I'm working with an SSA to establish "good-enough" practices in data management and curation. More information soon!
+
+- **Learning App for Children with Special Needs**. I'm working with Blended Concepts to build and evaluate a learning tool for children with special needs. More information soon!
+
 ## Text-as-data projects
 
 -   **News Media Representations of Social Service Agencies During COVID-19 in Singapore**. Analysis of 1,095 news articles in Singapore on SSAs using a corpus linguistic approach. [\[Website\]](https://gerardchung.github.io/ssanews/)[\[Github\]](https://github.com/gerardchung/ssa_covid_news)\[[Article](https://fass.nus.edu.sg/ssr/wp-content/uploads/sites/8/2022/03/Snippet_Issue-1_2022_MinorityStress_CommunityConnectedness_NewsMedia_SocialServices.pdf)\]
@@ -9,12 +15,6 @@ title: "Projects"
 -   **Text-mining news on Social Work Profession in Singapore**. Text data analysis of 7000 news articles related to Social Work Profession in Singapore. [\[Github\]](https://github.com/gerardchung/social_work_news_singapore)
 
 -   **Annual reports of Social Service Agencies in Singapore**. Narratives of Directors' messages from 2017 to 2021. Project website coming up soon!
-
-## Talks/Presentations
-
--   **The Design and Development of Interventions: An Application to an After-school Program by CampusImpact for Disadvantaged Families in Singapore**. Lee Choon Guan Endowment Fund Public Lecture. 31st Aug 2022. Social Work Department, NUS. [\[File *20MB*\]](files/lgc_aug2022_for_lgcwebsite.pdf) [[Slideshare]](https://www.slideshare.net/GerardChung/lgcaug2022forlgcwebsitepdf)
-
--   **Analyzing textual data from open-ended survey questions**. Humanities and Social Sciences (HSS) and New Technologies Sandpit, NUS FASS Research Division. 15th Aug 2022. [[File]](files/hss_tech_sandpit_2022Aug.pdf) [[Slideshare]](https://www.slideshare.net/GerardChung/analyzing-textual-data-from-openended-survey-questions)
 
 ## Meta-analysis
 

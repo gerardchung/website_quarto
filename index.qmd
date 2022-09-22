@@ -5,6 +5,7 @@ page-layout: full
 image: /gerardchung.png
 resources:
     - "gerardchung.png"
+
 ---
 
 ::: column-page-inset
