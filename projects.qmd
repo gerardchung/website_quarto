@@ -4,9 +4,9 @@ title: "Projects"
 
 ## Practice Research with Social Service Agencies.
 
-- **Data Management and Curation: Best Practices**. I'm working with an SSA to establish "good-enough" practices in data management and curation. More information soon!
+-   **Data Management and Curation: Best Practices**. I'm working with an SSA to establish "good-enough" practices in data management and curation. More information soon!
 
-- **Learning App for Children with Special Needs**. I'm working with Blended Concepts to build and evaluate a learning tool for children with special needs. More information soon!
+-   **Learning App for Children with Special Needs**. I'm working with Blended Concepts to build and evaluate a learning tool for children with special needs. More information soon!
 
 ## Text-as-data projects
 
@@ -22,7 +22,7 @@ title: "Projects"
 
 ## Parenting
 
--   **Parenting During COVID-19 Circuit Breaker.** A survey stud conducted with parents in Singapore during partial lock-down Circuit-breaker. [\[Website\]](https://sgcovidparenting.mystrikingly.com/)
+-   **Parenting During COVID-19 Circuit Breaker.** A survey study conducted with parents in Singapore during partial lock-down Circuit-breaker. [\[Website\]](https://sgcovidparenting.mystrikingly.com/)
 
 -   **Parenting Books on Amazon.sg: Webscrapping titles** I analyzed titles of parenting books listed on Amazon.sg.[\[Website\]](https://gerardchung.github.io/amazon_parentingbooks/)
 
@@ -30,6 +30,6 @@ title: "Projects"
 
 -   **In-Work Poverty and the Challenges of Getting By Among the Young**. Funded by the Social Science Thematic Research Grant, this project seeks to gain new insights on the kinds of "in-work" poverty that the working class are experiencing. It will focus on the challenges faced by lowly educated young workers (aged between 21 and 40) and their efforts at advancement. [\[website\]](https://fass.nus.edu.sg/ssr/research-projects/in-work-poverty-challenges-getting-by-among-the-young/)
 
--   **GUSTO: Growing Up in Singapore towards Healthy Outcomes.**. GUSTO is Singapore's largest and most comprehensive birth cohort study. GUSTO is an important nation-wide medical study that gathers data from parents and their babies, starting from pregnancy.[\[Website\]](https://www.gusto.sg/)
+-   **GUSTO: Growing Up in Singapore towards Healthy Outcomes.** GUSTO is Singapore's largest and most comprehensive birth cohort study. GUSTO is an important nation-wide medical study that gathers data from parents and their babies, starting from pregnancy.[\[Website\]](https://www.gusto.sg/)
 
--   **North Carolina State Administrative Data** Collaboration with Paul Lanier at UNC School of Social Work. Exciting. To be updated.
+-   **North Carolina State Administrative Data.** Collaboration with Associate Professor Paul Lanier at UNC School of Social Work. To build predictive risk models with administrative linked data for children in welfare.
