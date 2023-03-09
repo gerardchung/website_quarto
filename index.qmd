@@ -9,7 +9,7 @@ resources:
 
 ::: column-page-inset
 ::: column-page-inset-left
-I am a research fellow at the Singapore Institute for Clinical Sciences, A\*STAR, Singapore. I also hold an adjunct position at the Social Service Research Centre at the National University of Singapore.
+I will be joining the Department of Social Work, NUS as an Assistant Professor in the fall semester of 2023. Currently I am a research fellow at the Singapore Institute for Clinical Sciences, A\*STAR, Singapore. I also hold an adjunct research fellow position at the Social Service Research Centre at the National University of Singapore.
 
 I previously worked as a social worker at Fei Yue Family Service Centre.
 
