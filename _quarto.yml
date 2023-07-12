@@ -12,8 +12,9 @@ website:
       - href: about.qmd
       - href: research.qmd
       - href: projects.qmd
-      - href: talks.qmd
-    google-analytics: "G-T5QN0FBP69"
+#      - href: talks.qmd
+  google-analytics: "G-T5QN0FBP69"
+  favicon: favicon-32x32.png
 
 format:
   html:

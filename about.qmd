@@ -2,16 +2,16 @@
 title: "About"
 ---
 
-I am currently a research fellow at SICS, A\*STAR Singapore and an adjunct with Social Service Research Centre, NUS. I will be joining the Department of Social Work, NUS as an Assistant Professor in the fall semester of 2023.
-
 ### Research Interests
 
--   Parents and parenting
+-   Parents, fathers, and parenting
+-   Stepfamilies development
 -   Social Work Processes
 -   Intervention Design and Development
 -   Evaluation Research
 -   Text-as-data Analysis
 -   Causal Inference
+-   Technology in Social Work
 
 ### Education
 
@@ -73,7 +73,7 @@ Singapore\
 </div>
 
 ::: text-end
-Aug 2022 - present
+Aug 2022 - June 2023
 :::
 :::
 
@@ -92,7 +92,7 @@ Aug 2022 - present
 </div>
 
 ::: text-end
-Nov 2021 - present
+Nov 2021 - June 2023
 :::
 :::
 
