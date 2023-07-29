@@ -1,34 +1,29 @@
 ---
-title: "SW Singapore Q&A"
+title: "SW Singapore ChatGPT"
 ---
 
-\*\* STILL IN IMPROVEMENT \*\*\*
+\*\* TESTING STAGE \*\*\*
 
-The **Social Work Singapore Q & A Assistant** (currently) allows you to query the [Code of Professional Ethics for Social Work Profession Singapore](https://sasw.org.sg/wp-content/uploads/2021/04/SASW-Code-of-Professional-Ethics-3rd-Revision-online.pdf).
+The **Social Work Singapore Q & A Assistant** allows you to only query the [Code of Professional Ethics for Social Work Profession Singapore](https://sasw.org.sg/wp-content/uploads/2021/04/SASW-Code-of-Professional-Ethics-3rd-Revision-online.pdf).
 
-In your query, try to specifically include Singapore or social work. Use the app with discretion! 
-**If you made any queries, let me know how it went so that I know how to improve this.** 
-Give me feedback/ideas at: gerard\@nus.edu.sg.
+Use the app with discretion! **If you made any queries, let me know how it went so that I know how to improve this.** Give me feedback/ideas at: gerard\@nus.edu.sg.
 
-Consider funding this app to adopt better models and host on faster cloud computers. Each of your query costs me $. A \$10 can fund about 250 queries (4 cents per query).
+Consider funding this app to use better models and to host on faster computers. Each query you make costs me \$. A \$10 can fund about 250 queries (4 cents per query).
 
 \
-**Try it out. Ask questions like:**
+**Try it out. Use good prompts (see below). Ask questions like:**
 
 -   What are the core values of ethical principles of social work in Singapore?
 -   What social work ethical concerns are there regarding safekeeping clients' records in Singapore?
 -   Can social workers in Singapore receive tips for services?
 -   When was this code of practice developed and revised?
 -   What are the most frequent verbs, adjectives, and nouns used in the code of professional ethics?
+-   What are the top verbs used in the Code of ethics?
+-   What are confidentiality issues regarding suicidal clients?
 
 <iframe src="https://gcsk1982-socialworksgchatgpt.hf.space" frameborder="0" width="850" height="450">
 
 </iframe>
-
-**Tips to prompts**
-
--   Ask for specificity to the Singapore code of ethics.
--   State the context e.g., Singapore social work.
 
 **Future Plans**
 
@@ -39,9 +34,23 @@ Consider funding this app to adopt better models and host on faster cloud comput
 -   [buy me a coffee](https://www.buymeacoffee.com/gerardchung) so that I can do this at night after my wife/kids zzzz.
 -   Or fund this app so that I can use better LLMS, powerful cloud hosting to get faster responses, etc
 
-Additional note:
+**Additional note:**
 
--   I am using my own \$ to sustain the app. Each of your query will cost me \$.
--   The \$ goes to using the Llama 2 LLM.
+-   I am using my own \$ to sustain the app.
+-   The \$ goes to API calls on replicate
 -   But i use free hosting from Huggingface with CPU power i.e., no GPUs :(
 -   This is why the prompt is so slow to return.
+
+**Tips to prompts**
+
+-   Ask for specificity to the Singapore code of ethics.
+-   State the context e.g., Singapore social work.
+-   See below for an example of a good prompt
+
+*Instead of*\
+\
+"Is evaluation a responsibility of social work profession in Singapore?", instead ask:
+
+*Try:*
+
+"Is evaluation a responsibility in the social work profession in Singapore? In giving your response, take note of the following. First, only give a response specifically to information found in the code of professional ethics of the social work profession in Singapore. Second, give your answers in point form. Third, do not cite the section. Instead, state the page number and the"sentence" from the code of ethics where you get your information from."
