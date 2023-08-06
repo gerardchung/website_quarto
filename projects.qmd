@@ -4,11 +4,9 @@ title: "Projects"
 
 ## Practice Research with Social Service Agencies.
 
--   **Data Management and Curation: Best Practices**. I worked with an SSA to establish "good-enough" practices in data management and curation. More information soon!
+-   **Data Management and Curation: Best Practices**. I worked with an SSA to establish "good-enough" practices in data management and curation.
 
 -   **Adoption Home Study Reports**. I analyzed the assessment reports to understand the assessment processes involved in determining the suitability of prospective adoptive parents.
-
-
 
 ## Text-as-data projects
 
@@ -24,13 +22,15 @@ title: "Projects"
 
 ## Meta-analysis
 
--   **Parenting stress and children behavioral problems during COVID-19 pandemic**. We investigated the effects of parenting stress on child and parenting outcomes during the COVID-19 pandemic from 40 studies. [\[Website\]](https://gerardchung.github.io/meta_analysis_parentingstress/)
+-   **Parenting stress and children behavioral problems during COVID-19 pandemic**. We investigated the effects of parenting stress on child and parenting outcomes during the COVID-19 pandemic from 40 studies. [\[Website\]](https://gerardchung.github.io/meta_analysis_parentingstress/) \[[Preprint](https://psyarxiv.com/pzk5v/)\]
 
-## Parenting
+## Parenting / fathers
 
 -   **Parenting During COVID-19 Circuit Breaker.** A survey study conducted with parents in Singapore during partial lock-down Circuit-breaker. [\[Website\]](https://sgcovidparenting.mystrikingly.com/)
 
 -   **Parenting Books on Amazon.sg: Webscrapping titles** I analyzed titles of parenting books listed on Amazon.sg.[\[Website\]](https://gerardchung.github.io/amazon_parentingbooks/)
+
+-   **Exploring the Role of Fathers in Singapore During the First 6 Years of their Child's Development.** A FGD study with fathers in collaboration with CHILD and SICS.
 
 ## Other projects
 
@@ -40,6 +40,4 @@ title: "Projects"
 
 -   **North Carolina State Administrative Data.** Collaboration with Associate Professor Paul Lanier at UNC School of Social Work. To build predictive risk models with administrative linked data for children in welfare.
 
--   **DADS CAN!** Collaboration with A*STAR team to look at fathers and families. [Website](https://yahruj.wixsite.com/yahru)
-
-
+-   **DADS CAN!** Collaboration with A\*STAR team to look at fathers and families. [Website](https://yahruj.wixsite.com/yahru)

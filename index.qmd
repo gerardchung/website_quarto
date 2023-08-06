@@ -9,11 +9,13 @@ resources:
 
 ::: column-page-inset
 ::: column-page-inset-left
-I am an assistant professor at the Department of Social Work, National University of Singapore. I got my PhD from the [School of Social Work](https://ssw.unc.edu/), University of North Carolina at Chapel Hill. For my postdoctoral training, I worked as a research fellow at the [Singapore Institute for Clinical Sciences](https://www.a-star.edu.sg/sics), A\*STAR and also at the [Social Service Research Centre](https://fass.nus.edu.sg/ssr/), NUS. Before I joined the academia, I was a social worker at Fei Yue Family Service Centre.
+I'm an assistant professor at the Department of Social Work in the National University of Singapore. My academic journey includes a PhD from the [School of Social Work](https://ssw.unc.edu/) at the University of North Carolina, Chapel Hill. Before entering academia, I worked as a social worker at Fei Yue Family Service Centre. Additionally, I gained valuable postdoctoral experience as a research fellow at the [Singapore Institute for Clinical Sciences](https://www.a-star.edu.sg/sics), A\*STAR, and the [Social Service Research Centre](https://fass.nus.edu.sg/ssr/), NUS.
 
-As a social work researcher, my research focuses on parenting, fathers, stepfamilies, and intervention research. I am also interested to advance the use of administrative data in the social service sector to improve social work practices and to evaluate interventions and services. I also hope to explore the use of technology to support social work practices.
+My research mainly focuses on parenting, fathers, stepfamilies, and intervention studies in the field of social work. I'm also passionate about leveraging administrative data and textual data in the social service sector to enhance practices, evaluate interventions, and improve services. Exploring the potential of technology to support social work practices is another area of interest for me.
 
-I identify as a quantitative methodologist where the through line connecting my research interests involved the use of computational social science methods and advanced statistical methods. I am most interested to use text-as-data methods to explore insights from textual data generated from unconventional sources.
+I consider myself a quantitative methodologist, and my research involves using computational social science methods and advanced statistics. I'm particularly excited about employing text-as-data methods to gain insights from unconventional sources of textual data.
+
+Drop me an email here: gerard\@nus.edu.sg
 :::
 
 ::: {.column-margin .column-container}
@@ -53,8 +55,14 @@ I identify as a quantitative methodologist where the through line connecting my 
 
 <br>
 
-| News       |     |                                                                                                            |
-|------------------|-----|--------------------------------------------------|
-| Aug 2023   |     | Taught SW4103 "Research and Evaluation" to 4th year Social Work Students                                   |
-| June 2023  |     | Completed a computational text analysis of adoption home assessment reports for Fei Yue Community Services |
-| June 2023  |     | Joined NUS!                                                                                                |
++-----------+--------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| News      |        |                                                                                                                                                                 |
++===========+========+=================================================================================================================================================================+
+| Aug 2023  |        | Taught SW4103 "Research and Evaluation" to 4th year Social Work Students                                                                                        |
++-----------+--------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| June 2023 |        | Completed a computational text analysis of adoption home assessment reports for Fei Yue Community Services                                                      |
+|           |        |                                                                                                                                                                 |
+|           |        | Yeah! My A\*STAR intern Samuel ([LinkedIn](https://www.linkedin.com/in/samuel-lee-744a4a207/ "Samuel")) from NUS Statistics Department finished his internship! |
++-----------+--------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| June 2023 |        | Joined NUS!                                                                                                                                                     |
++-----------+--------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+

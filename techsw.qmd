@@ -1,0 +1,38 @@
+---
+title: "Technology in SW"
+bibliography: references.bib
+---
+
+**\*\* Page in building \*\***
+
+**Technology in Social Work?**
+
+Technology can play a pivotal role in the development and design of social interventions, enabling social workers to craft innovative and evidence-based solutions tailored to individual and community needs. By leveraging technology, social workers can create interventions that are more efficient, scalable, and sustainable, ultimately maximizing their impact on vulnerable populations. However, it is crucial to tread carefully, as there are potential dangers and risks associated with technology in social work. Ethical considerations, such as ensuring client data privacy and confidentiality, informed consent in digital interactions, and maintaining cultural sensitivity in virtual settings, must be paramount to avoid any violations of the code of ethics of social work. Moreover, as we explore the potential of artificial intelligence and predictive analytics, it becomes essential to ensure that these tools are used responsibly, safeguarding against any unintended biases that could perpetuate inequalities. Through thoughtful research and cautious implementation, we can harness the power of technology to enhance social work practice while staying true to our social work profession core values in Singapore.
+
+**What are the key areas I am interested to explore in my research:**
+
+**1) Identify key competencies to be considered for social work education and continuing education regarding technology in social work practice**
+
+-   Social work competencies include "core knowledge, values, and skills in working .. in an area of particular practice ... [as well as] competence from one situation to another irrespective of case, need, problem, or context" [as cited by @mcinroy2021, pp. 546]
+
+-   @mcinroy2021 identified five competencies:
+
+    -   Continuing engagement with ICTs
+    -   Online professionalism
+    -   Assessing risks and opportunities
+    -   Applying professional ethics
+    -   Thoughtful integration of ICTs into practice contexts
+
+-   Are these the competencies that Singapore social workers need? What other competencies are important considering the social service sector here and other sectors?
+
+**2) Develop the code of social work ethics to consider standards for technology in social work practice**
+
+-   The current code of Professional ethics for social work profession in Singapore ([here](https://sasw.org.sg/wp-content/uploads/2021/04/SASW-Code-of-Professional-Ethics-3rd-Revision-online.pdf)) placed "Electronic Technology" in "Professional boundaries with *clients*" in ethical responsibility directed towards *clients* (section A).
+-   Aside from clients, technology impacts many aspects of social work including practice, agency, workers' interactions with colleagues, supervisors, community partners, supervisor.
+-   Thinking deeper about technology and our ethical responsibilities to clients as well as towards colleagues, practice, profession, and society can help us be in a clearer position in our use of technology.
+
+**3) Build good science to drive the development and implementation of technology in social work**
+
+**4) Design and develop the interventions that can harness the power of technology**
+
+I am still building this page. But help, ideas, collaborations are always welcome. I also welcome students who are interested to do research in these areas.
