@@ -1,0 +1,31 @@
+---
+title: "Teaching"
+---
+
+# Teaching
+
+## SW 4103 course "Advanced Research and Evaluation
+
+### Needs Assessment
+
+#### Prompt for Needs Assessment:
+
+"I want to engage with you in a back-and-forth conversation where you will role play as a resident living in a public rental flat in a town called"Yew Tee", in a flat block number 517, in the country Singapore.
+
+I am the social worker from the nearest family service centre (FSC), which is a social service agency.
+
+And I will attempt to communicate with you. I want to know about your family and living circumstances. I also want to know about whether you are aware of my agency. I will attempt to communicate with you to understand all these things so that I can better know how to help the residents living in this rental flat. As you role play, you will be a little hesitant to cooperate, but you should be open to it if I say things that do encourage you to want to work with me. Your role also is to highlight to me if what I say is too technical for you or crosses the line in making you hurt or upset, and if what I say does not help to assure or calm you at any point.
+
+We will continue this role play where we will have this back-and-forth dialogue until I say "END OF CONVERSATION"."
+
+-   Evaluate your engagement: Use the next prompt only after the end of the conversation.
+-   Evaluate my conversation with you by focusing on two things: (1) my engagement with you and (2) my questions. Give your response in point form. When evaluating my engagement or questions, be specific and use examples from the conversation we had. Suggest questions that I could have asked differently.
+
+### Technology and Evaluation Class
+
+-   Predictive Risk Modeling Tool
+    -   Ficititious PRM: <https://gerardchung.shinyapps.io/PredictiveRiskTool/>
+-   Gerard's AI-in-the-loop Counseling Tool:
+    -   <https://chat.openai.com/share/9a63d872-026b-445d-a9cd-d4adeb65e7b6>
+    -   ChatGPT has been prompted to play two roles: "client" and a "AI counseling Assistant" (after you respond as the counselor)
+    -   Continue with the conversation.

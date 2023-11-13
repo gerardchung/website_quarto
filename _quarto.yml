@@ -12,9 +12,11 @@ website:
       - href: about.qmd
       - href: research.qmd
       - href: projects.qmd
+      - href: teaching.qmd
+      - href: techsw.qmd
       - href: fail_resume.qmd
       - href: socialworkSGgpt.qmd
-#      - href: talks.qmd
+      
   google-analytics: "G-T5QN0FBP69"
   favicon: favicon-32x32.png
 

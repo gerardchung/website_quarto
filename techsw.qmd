@@ -7,7 +7,9 @@ bibliography: references.bib
 
 **Technology in Social Work?**
 
-Technology can play a pivotal role in the development and design of social interventions, enabling social workers to craft innovative and evidence-based solutions tailored to individual and community needs. By leveraging technology, social workers can create interventions that are more efficient, scalable, and sustainable, ultimately maximizing their impact on vulnerable populations. However, it is crucial to tread carefully, as there are potential dangers and risks associated with technology in social work. Ethical considerations, such as ensuring client data privacy and confidentiality, informed consent in digital interactions, and maintaining cultural sensitivity in virtual settings, must be paramount to avoid any violations of the code of ethics of social work. Moreover, as we explore the potential of artificial intelligence and predictive analytics, it becomes essential to ensure that these tools are used responsibly, safeguarding against any unintended biases that could perpetuate inequalities. Through thoughtful research and cautious implementation, we can harness the power of technology to enhance social work practice while staying true to our social work profession core values in Singapore.
+Technology can play a pivotal role in the development and design of social interventions, enabling social workers to craft innovative and evidence-based solutions tailored to individual and community needs. By leveraging technology, social workers can create interventions that are more efficient, scalable, and sustainable, ultimately maximizing their impact on vulnerable populations. However, it is crucial to tread carefully, as there are potential dangers and risks associated with technology in social work. Ethical considerations, such as ensuring client data privacy and confidentiality, informed consent in digital interactions, and maintaining cultural sensitivity in virtual settings, must be paramount to avoid any violations of the code of ethics of social work. Moreover, as we explore the potential of artificial intelligence and predictive analytics, it becomes essential to ensure that these tools are used responsibly, safeguarding against any unintended biases that could perpetuate inequalities.
+
+We do not want to "move fast and break things" [@taplin2017] . We want to **move thoughtfully and fix things**. Through thoughtful research and cautious implementation, we can harness the power of technology to enhance social work practice while staying true to our social work profession core values in Singapore.
 
 **What are the key areas I am interested to explore in my research:**
 
@@ -17,22 +19,62 @@ Technology can play a pivotal role in the development and design of social inter
 
 -   @mcinroy2021 identified five competencies:
 
-    -   Continuing engagement with ICTs
-    -   Online professionalism
-    -   Assessing risks and opportunities
-    -   Applying professional ethics
-    -   Thoughtful integration of ICTs into practice contexts
+    1.  Continuing engagement with ICTs
+    2.  Online professionalism
+    3.  Assessing risks and opportunities
+    4.  Applying professional ethics
+    5.  Thoughtful integration of ICTs into practice contexts
+
+-   To this list, I add another competency: Computational *reasoning.* If we encourage workers to apply computational tools to solve complex problems or improve social work processes, we also need to help them develop the "ability to critically self-evaluate the way they apply these tools, and thus be able to reason effectively in a variety of contexts". I owe this term to Jonathan Sim, a colleague from the philosophy department of NUS ([personal website](https://i.am.jyhsim.com/)). What does it mean to code a variable as 0 and 1? How can social workers appropriately interpret statistics for use? What does using a linear model mean, aside from the goal of minimizing the root square mean error? What is predictive risk modeling?
 
 -   Are these the competencies that Singapore social workers need? What other competencies are important considering the social service sector here and other sectors?
 
 **2) Develop the code of social work ethics to consider standards for technology in social work practice**
 
--   The current code of Professional ethics for social work profession in Singapore ([here](https://sasw.org.sg/wp-content/uploads/2021/04/SASW-Code-of-Professional-Ethics-3rd-Revision-online.pdf)) placed "Electronic Technology" in "Professional boundaries with *clients*" in ethical responsibility directed towards *clients* (section A).
--   Aside from clients, technology impacts many aspects of social work including practice, agency, workers' interactions with colleagues, supervisors, community partners, supervisor.
+-   The code of Professional ethics for social work profession in Singapore, 3rd revision ([here](https://sasw.org.sg/wp-content/uploads/2021/04/SASW-Code-of-Professional-Ethics-3rd-Revision-online.pdf)) placed "Electronic Technology" @fig-electronic in "Professional boundaries with *clients*" within section "A. Social Workers' Ethical Responsibility to *clients*".
+-   This is appropriate considering the centrality of the practitioner-client relationship within the core value "Importance of Human Relationships" in the social work profession (Core value 6 "Importance of Human Relationships" in the SG Code; see also @reamer2018).
+-   The ways in which social workers use technology in social work have created new ways to interact and communicate with client. This in turn has bring into focus questions about the social work-client relationship.
+-   In addition, technology also has change various fronts of our profession that do not involve direct interactions with client, including the design and delivery of services, management of data, agency processes, how social workers' relate with colleagues and supervisors, and promoting of services.
+    -   Social workers who use technology to provide supervision. Do these tools meet the learning need of the supervisees?
+    -   SSAs maintain websites and social media accounts that provide information to the public. Are there steps to ensure that the information is accurate, up-to-date, and valid? Are there propoer acknowledgements of the information or work of others?
+    -   Social workers increasingly use technology to communicate with colleagues either to get information for service referrals, or to understand colleagues' practices and policies. Do we check if the info is accurate? Do we acknowledge the work and contributions made by other colleagues? Can we use technology to search personal information about colleagues?
+    -   How do we evaluate technology (e.g., predictive risk models)? What are the metrics we should use to evaluate the system? AI-in-the-loop feedback systems can be use to support social workers' skills (e.g., @sharma2023), how do we check if these systems are useful?
 -   Thinking deeper about technology and our ethical responsibilities to clients as well as towards colleagues, practice, profession, and society can help us be in a clearer position in our use of technology.
 
-**3) Build good science to drive the development and implementation of technology in social work**
+```{mermaid}
+%%| label: fig-electronic
+%%| fig-cap: "Electonic Technology in the Code"
+graph TD
+  Mission --> id(6 Core values)
+	id(6 Core values) --> id2(5 Ethical Principles) 
+
+  id2(5 Ethical Principles) ==> Client
+  id2(5 Ethical Principles) --> Colleagues
+  id2(5 Ethical Principles) --> Practice_Settings 
+  id2(5 Ethical Principles) --> Profession
+  id2(5 Ethical Principles) --> Society
+
+	Client ==> id3(5. Professional boundaries with client)
+	Client --> 6.Privacy_Confidential
+  Client --> 7.Client_Records
+
+id3(5. Professional boundaries with client) ==> id4(f. Electronic Technology)
+```
+
+**3) Build good science to drive the design and development of technology in social work**
+
+-   Applications build on LLMs are exciting and many of these could be potentially useful for social work practice [e.g., @sharma2023; @sharma2020]. However, some apps are not built with strong theoretical conceptualization and evidence from existing social science research.
+
+-   Developing apps for use in social work require skills from computing, AI, or design-thinking. But they also need social science. In social science, we emphasize measurements, causal thinking, rigour models, and theories.
+
+-   If we want to build an AI tool to support social workers' engagement skills, we need to tap on what we know about social work engagement. Building the science is key to developing effective apps.
 
 **4) Design and develop the interventions that can harness the power of technology**
 
-I am still building this page. But help, ideas, collaborations are always welcome. I also welcome students who are interested to do research in these areas.
+-   One crucial question is how do we evaluate AI interventions? Work in this area, mostly with healthcare interventions, have found inadequate information reported by trials and missing critical information (e.g., what version of the algorithm was used? how were the training/test data selected? what was the interactions between AI and human?). See @ibrahim2021.
+
+-   Process and outcome evaluation are crucial in understanding the effects of using these interventions. @bibbs2023 highlighted the need for social work users of technology to "engage in continuous and rapid ethical monitoring" as well as "..duty bound to proactively consider unintended consequences"(p. 141).
+
+**Interested to work together?**
+
+I am still building this page. But help, ideas, collaborations are always welcome. I welcome students who are interested to do research in these areas for their dissertations/ISMs/summer jobs. Practitioners in social service agencies and you want to explore more? Come let's talk over a coffee!
