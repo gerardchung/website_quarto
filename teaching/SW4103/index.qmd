@@ -1,0 +1,210 @@
+---
+title: "SW4103 Advanced Research and Evaluation"
+
+execute:
+  echo: false
+  output: false
+
+bibliography: references.bib
+---
+
+[back to Teaching](/teaching.qmd)
+
+# What is this course about?
+
+This course guides you through evaluating social interventions in the social service sector. It's about understanding and proving program success. We'll focus on examining interventions and critically assessing them. Practical skills in research and evaluation are a big part of the curriculum, prepping you for real-world challenges in social work.
+
+This course sharpens your skills in scientific thinking, crafting research designs, crunching numbers, and interpreting data. You'll build on what you know about social work in Singapore and tackle evaluation methods through group projects.
+
+**Program evaluation skills are crucial for social workers because you'll face situations like these:**
+
+-   Clients will want effective solutions to their problems. How do you know the solutions are effective?
+-   You'll need to communicate your interventions clearly, not just as good ideas but as actionable strategies, to both stakeholders and funders.
+-   Funders will challenge you to prove your program's effectiveness and relevance to the target population.
+-   When outcomes aren't as expected, you'll need to discern whether it's due to the program's design or its execution.
+-   You'll have to critically evaluate reports to ensure they're not misleading or overly optimistic without substantial evidence.
+-   With increase adoption of technology, how do we evaluate its impact?
+
+# Learning Outcomes
+
+-   Understand the underlying logic that informs programme planning, implementation, monitoring and evaluation;
+-   Conceptualise, develop and implement an evaluation at both the case and programme level;
+-   Comprehend and critically interpret the results of evaluation research findings; and
+-   Understand the issues and challenges involved in social work research and evaluation, including the role of ethics in research and evaluation.
+
+# Teaching mode
+
+Weekly 3 hours face-to-face Seminars
+
+# Topics
+
+Topics based on Sem 1 2023/24 syllabus. Trust me, this will change again!
+
+-   Evaluation, Research in the Social Service Section in Singapore, Research Ethics
+-   Needs Assessment: " Why is this program important?"
+-   Program Theory: The "blue print"! What is this program going to do?
+-   Formative and Process Evaluation: "What is Happening/Happened in the Program?"
+-   Summative Evaluation: "Was the program effective?"
+-   Data Analysis: Analyses of treatment effects and interpretation
+-   Measurement in Evaluation Research
+-   Evaluation of Technology [slides](https://gerardchung.github.io/sw4103_researcheval_sem1_2023/session10/#/title-slide)
+-   Special topics
+
+# What students have said about this course?
+
+## 2023/24 Semester 1
+
+### Quantitative improvements in Evaluation Self-efficacy
+
+My students reported on their evaluation self-efficacy where ESE is defined as "social work students' self-efficacy regarding their ability to carry out evaluations of social work practice [@holden2017]
+
+ESE was measured using the ESE-III scale [@holden2022] which contains 16 items on a 11-point scale (0 = *Can not do at all*; 50 = *Moderately certain can do*; and 100 = *Certain can do)*.
+
+After the course, their overall ESE improved from 3.61 to 6.82 representing an effect size of 2.82 using the Cohen's D effect type. The largest increase was in Question 5 which was related to knowledge and skills in using the logic model. Descriptions of the 16 items can be found [here](https://docs.google.com/document/d/1fULbOIv7joEQgh5YWe3gbbdyaoSJIJ2FWL3XFIJ5z18/edit?usp=sharing)
+
+```{r}
+#| echo: false
+#| output: false
+
+# Pre-settings
+
+pacman::p_load(ggplot2, tidyverse, gt, here, janitor, knitr)
+getwd()
+library(readxl)
+
+library(showtext)
+
+font_add_google("roboto condensed")
+
+showtext_opts(dpi = 300)
+showtext_auto(enable = TRUE)
+
+jco_yellow = "#EFC000FF"
+jco_blue = "#7AA6DCFF"
+jco_darkblue = "#0073C2FF"
+jco_red = "#CD534CFF"
+jco_darkred = "#A73030FF"
+jco_gray = "#868686FF"
+font = "roboto condensed"
+label_font <- "roboto condensed"
+
+bcolor <- "#7EC8E3"
+fontcolor <- "#000000"
+nus_blue = "#003D7C"
+nus_orange = "#EF7C00"
+
+    
+```
+
+```{r}
+#| echo: false
+#| output: false
+
+load(here("teaching", "SW4103", "prepost_survey_202324_sem1", "data", "mean_prepost_wide.RData"))
+load(here("teaching", "SW4103", "prepost_survey_202324_sem1", "data", "group.RData"))
+
+
+```
+
+```{r}
+#| echo: false
+#| output: true
+
+
+group %>% 
+  mutate(wave = factor(wave, levels = c("pre", "post"), labels = c("Pre-course", "Post-course"))) %>% 
+  ggplot(aes(x = wave, y = mean_aver_overall)) +
+  geom_line(aes(group = 1),
+            arrow = arrow(type = "closed", length = unit(0.08, "inches"))) +
+  geom_point(aes(color=wave), size = 4, alpha = .8) + 
+  scale_color_manual(values = c("Pre-course" = jco_red, "Post-course" = jco_darkblue)) +
+  scale_y_continuous(limits = c(0, 8))  +
+  labs(title = "Evaluation Self-efficacy Improved at Post-SW4103 Course",
+       subtitle = "Average improvements was 3.21",
+       x = "",
+       y = "Average Self-efficacy",
+       caption = "Cohen's D at 2.82, interpreted as large ES") +
+  theme_minimal() +
+  theme(panel.grid.major.x=element_line(linewidth =0.05),
+        legend.position = "none",
+        plot.title = element_text(size=20, face="bold",  family = font),
+        plot.subtitle = element_text(size=16, face="bold", family = font),
+        axis.title.y = element_text(size = 12, family = font),
+        axis.title.x = element_text(size = 12,family = font),
+        axis.text.y = element_text(size=8, family = font),
+        axis.text.x = element_text(size=8, family = font),
+        axis.ticks.y = element_blank(),
+        plot.caption = element_text(size=9, color = "black", family = font)) +
+  
+  geom_text(aes(label = sprintf("%.2f", mean_aver_overall)), 
+            vjust = -1,    # Adjust vertical position of text
+            size = 3)     # Adjust text size
+
+
+
+```
+
+```{r}
+#| echo: false
+#| output: true
+
+ggplot(mean_prepost_wide, aes(y = as.numeric(question_number), x = value, group=as.numeric(question_number))) +
+    geom_line() +
+    geom_point(aes(color=wave), 
+               size = 4, alpha = .8) +
+
+    theme_minimal() +
+    scale_y_continuous(breaks = 1:16, limits = c(1, 16)) +
+    theme(legend.position = "bottom") +
+  scale_x_continuous(limits = c(0, 10), labels = scales::label_number(scale = 1, suffix = "", accuracy = 1)) +
+  
+  scale_color_manual(values = c("pre" = jco_red, "post" = jco_darkblue)) +
+  labs(title = "Mean Scores of Evaluation Self-efficacy for each item",
+       subtitle = "For example in Q16, the mean scores increased from 3.25 to 6.5 ",
+       x = "Average ESE scores",
+       y = "Question Items",
+       caption = "") +
+  theme(panel.grid.major.x=element_line(linewidth =0.05),
+        legend.position = "bottom",
+        plot.title = element_text(size=16, face="bold",  family = font),
+        plot.subtitle = element_text(size=12, family = font),
+        axis.title.y = element_text(size = 10, family = font),
+        axis.title.x = element_text(size = 10,family = font),
+        axis.text.y = element_text(size=8, family = font),
+        axis.text.x = element_text(size=8, family = font),
+        axis.ticks.y = element_blank(),
+        plot.caption = element_text(size=9, color = "black", family = font)
+  ) +
+  geom_text(
+    aes(label = ifelse(question_number %in% c("1", "16"), sprintf("%.2f", value), "")),
+    vjust = 1.2, hjust = 1.0, family = font
+  )
+```
+
+# Class Resources
+
+## Needs Assessment Class
+
+### Prompt for Needs Assessment:
+
+"I want to engage with you in a back-and-forth conversation where you will role play as a resident living in a public rental flat in a town called"Yew Tee", in a flat block number 517, in the country Singapore.
+
+I am the social worker from the nearest family service centre (FSC), which is a social service agency.
+
+And I will attempt to communicate with you. I want to know about your family and living circumstances. I also want to know about whether you are aware of my agency. I will attempt to communicate with you to understand all these things so that I can better know how to help the residents living in this rental flat. As you role play, you will be a little hesitant to cooperate, but you should be open to it if I say things that do encourage you to want to work with me. Your role also is to highlight to me if what I say is too technical for you or crosses the line in making you hurt or upset, and if what I say does not help to assure or calm you at any point.
+
+We will continue this role play where we will have this back-and-forth dialogue until I say "END OF CONVERSATION"."
+
+-   Evaluate your engagement: Use the next prompt only after the end of the conversation.
+-   Evaluate my conversation with you by focusing on two things: (1) my engagement with you and (2) my questions. Give your response in point form. When evaluating my engagement or questions, be specific and use examples from the conversation we had. Suggest questions that I could have asked differently.
+
+## Technology and Evaluation Class
+
+-   Slides for Technlogy class:
+    -   <https://gerardchung.github.io/sw4103_researcheval_sem1_2023/session10/#/title-slide>
+-   Predictive Risk Modeling Tool
+    -   Ficititious PRM: <https://gerardchung.shinyapps.io/PredictiveRiskTool/>
+-   Gerard's AI-in-the-loop Counseling Tool:
+    -   <https://chat.openai.com/share/9a63d872-026b-445d-a9cd-d4adeb65e7b6>
+    -   ChatGPT has been prompted to play two roles: "client" and a "AI counseling Assistant" (after you respond as the counselor)
+    -   Continue with the conversation.
